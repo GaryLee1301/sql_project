@@ -51,7 +51,7 @@ ORDER BY trip_miles DESC
 
 
 ### **Results/Findings**
-1. The revenue for the taxi industry in Chicagois facing a decline since 2015 ![image](https://github.com/GaryLee1301/sql_project/assets/162598482/dde1363f-324e-45c6-b8b2-3cacd70d8246)
+1. The revenue for the taxi industry in Chicago is facing a decline since 2015 ![image](https://github.com/GaryLee1301/sql_project/assets/162598482/dde1363f-324e-45c6-b8b2-3cacd70d8246)
 
 
 2. People tend to tip more if they are using the taxi services for a longer ride/ distance.![image](https://github.com/GaryLee1301/sql_project/assets/162598482/eef76366-1e23-40a0-b525-27ac7712b0b1)
